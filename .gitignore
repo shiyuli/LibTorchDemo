@@ -7,10 +7,7 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
-<<<<<<< HEAD
 .git/
 .vs/
 build
 *.pt
-=======
->>>>>>> d9c9ceb22d7cedc15f089601cdd428efc340d042
