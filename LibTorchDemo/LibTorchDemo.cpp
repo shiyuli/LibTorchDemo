@@ -7,10 +7,10 @@
 
 int main()
 {
-	ModelManager *model_manager = new ModelManager("model.pt", GPU_SUPPORT);
-	model_manager->load_model();
-	model_manager->exec_model();
+    ModelManager *model_manager = new ModelManager("model.pt", GPU_SUPPORT);
+    model_manager->load_model();
+    model_manager->exec_model();
 
-	system("pause");
-	return 0;
+    system("pause");
+    return 0;
 }
