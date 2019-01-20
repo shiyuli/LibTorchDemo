@@ -7,7 +7,7 @@
 
 int main()
 {
-    ModelManager *model_manager = new ModelManager("model.pt", GPU_SUPPORT);
+    ModelManager *model_manager = new ModelManager("D:/CODE/C++/LibTorchDemo/Python/model.pt", GPU_SUPPORT);
     model_manager->load_model();
     model_manager->exec_model();
 

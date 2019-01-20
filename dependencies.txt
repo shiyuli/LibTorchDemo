@@ -1,0 +1,3 @@
+LibTorch stable(1.0) with CUDA(10.0) support
+cuda_10.0.130_411.31_win10
+cudnn-10.0-windows10-x64-v7.4.2.24
